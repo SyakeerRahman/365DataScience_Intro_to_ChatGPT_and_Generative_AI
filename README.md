@@ -1,5 +1,6 @@
 # 365DataScience_Intro_to_ChatGPT_and_Generative_AI
 
+<img width="488" alt="image" src="https://github.com/SyakeerRahman/365DataScience_Intro_to_ChatGPT_and_Generative_AI/assets/105381652/0abcf331-53b0-4efa-97d6-261dbef56ad5">
 
 ## 1. Intro To ChatGPT And Generative Al
 
